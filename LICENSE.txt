@@ -1,0 +1,5 @@
+License:
+
+This plugin is distributed exclusively on CurseForge and Modrinth. Redistribution, modification, decompilation, or any other form of unauthorized copying is strictly prohibited without explicit permission from the author.
+
+Creating or distributing similar or derivative plugins, including clones, without explicit permission is also strictly prohibited. Any unauthorized actions will result in a DMCA takedown and further legal measures if necessary.
